@@ -5,11 +5,21 @@ author: "Shenay"
 permalink: /about/
 ---
 
-A friend of mine writes short stories. One sunny day, I asked if he wanted a website to showcase his works and he agreed. I decided to use GitHub Pages to host his site. That way he wouldn't have to buy a domain and a server.
+<img src="/assets/profile.jpg" alt="profile" width="170" height="180" />
 
-While doing some research up on GitHub Pages, I accidentally chanced upon this _simple, blog-aware, static site generator_ called [Jekyll](https://jekyllrb.com/) which works really well with GitHub Pages. I figured it would do just fine for my friend and I set about searching for a pretty theme. I wanted a theme with a _book-ish_ vibe. Unfortunately, most of the themes were too modern. Eventually, I caved and begun working on my own theme. With the help of [Poole](https://github.com/poole/poole), the Jekyll Butler, I was able to build **Tale**.
+Hi there! I am __Shenay Sang__ - a warm welcome to my personal website.
 
-## Contribute
-Feel free to create an issue or make a pull request on [GitHub](https://github.com/chesterhow/tale).
+If I could describe myself briefly, it would be *adaptable to challenges*, *curiously motivated*, and *capturing the moment*.
 
-Thanks for reading!
+Besides my birthplace in China, I am fortunate to have lived abroad and be exposed to multi-faceted and captivating cultures in Australia, the United States, and currently,📍Singapore. The people encountered and different experiences have amalgamated into valuable opportunities for me to learn and grow.
+
+My earliest recollection of writing stems from a primary school project, during which I wrote a short fiction and the teacher's feedback was "I can't wait to read more in the future." Although it has been quite some time since I have attempted to write creatively, journaling for self-reflection and self-discovery is a habit that I recently picked back up in the last year.
+
+One of my favorite quotes by Iyanla Vanzant is:
+> _Everything you have experienced has been purposeful. It has brought you to where you are now. You have a collection of experiences to use as stepping stones to take you where you want to go._
+
+Hence, my goal for this website is to document bits of the journey, including my current experience studying __MSc. Business Analytics__ at [The National University of Singapore](http://www.nus.edu.sg/). I am an alumna of [The University of Wisconsin-Madison](https://www.wisc.edu/) and [Vanderbilt University](https://www.vanderbilt.edu/).
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<a href="mailto: shengnan.sang@u.nus.edu" class="fa fa-envelope"></a>
+<a href="https://www.linkedin.com/in/shenay-sang" class="fa fa-linkedin"></a>

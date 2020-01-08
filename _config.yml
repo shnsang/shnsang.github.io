@@ -1,6 +1,6 @@
 # Site settings
-title:          $ cd/home/
-description:    "Default description"
+title:          Musings & More
+description:    "Default"
 url:            "https://shnsang.github.io/"
 
 # Google Analytics
@@ -27,7 +27,7 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-seo-tag
-  - jemoji #Uncomment this to allow emoji in your post
+  #jemoji #Uncomment this to allow emoji in your post
 
 # Permalinks
 permalink:      /:year-:month-:day/:title
