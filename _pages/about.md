@@ -18,7 +18,7 @@ My earliest recollection of writing stems from a primary school project, during 
 One of my favorite quotes by Iyanla Vanzant is:
 > _Everything you have experienced has been purposeful. It has brought you to where you are now. You have a collection of experiences to use as stepping stones to take you where you want to go._
 
-Hence, my goal for this website is to document bits of the journey, including my current experience studying __MSc. Business Analytics__ at [The National University of Singapore](http://www.nus.edu.sg/). I am an alumna of [The University of Wisconsin-Madison](https://www.wisc.edu/) and [Vanderbilt University](https://www.vanderbilt.edu/).
+Hence, my goal for this website is to document bits of the journey, including my current experience studying __MSc. Business Analytics__ at [The National University of Singapore](http://www.nus.edu.sg/). I am an alumna of [The University of Wisconsin-Madison](https://www.wisc.edu/) (Finance, Economics) and [Vanderbilt University](https://www.vanderbilt.edu/) (Finance).
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <a href="mailto: shengnan.sang@u.nus.edu" class="fa fa-envelope"></a>
